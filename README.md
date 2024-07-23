@@ -1,16 +1,19 @@
 # E-COMMERCE-ANALYSIS-MANAGEMENT
 E-COMMERCE ANALYSIS &amp; MANAGEMENT
 
-Overview
+# Overview
 This project involves analyzing a retail transaction database to extract insights and answer specific business questions. The analysis was performed using MySQL Workbench.
 
-Objectives
+# Objectives
 The following objectives were addressed in this project:
 
-1.Total Rows in Each Table: Determine the total number of rows in each of the 3 tables in the database.
-Transactions with Returns: Calculate the total number of transactions that have a return.
-Date Formatting: Convert all date variables into valid date formats for consistent analysis.
-Transaction Data Time Range: Identify the time range of the transaction data in days, months, and years.
+# 1.Total Rows in Each Table:
+ Determine the total number of rows in each of the 3 tables in the database.
+# 2.Transactions with Returns:
+ Calculate the total number of transactions that have a return.
+# 3.Date Formatting:
+ Convert all date variables into valid date formats for consistent analysis.
+# 4.Transaction Data Time Range: Identify the time range of the transaction data in days, months, and years.
 Product Category for Sub-category "DIY": Find the category to which the sub-category "DIY" belongs.
 Most Frequently Used Transaction Channel: Determine the most frequently used channel for transactions.
 Customer Gender Count: Count the number of male and female customers in the database.
