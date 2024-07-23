@@ -7,7 +7,7 @@ This project involves analyzing a retail transaction database to extract insight
 Objectives
 The following objectives were addressed in this project:
 
-Total Rows in Each Table: Determine the total number of rows in each of the 3 tables in the database.
+1.Total Rows in Each Table: Determine the total number of rows in each of the 3 tables in the database.
 Transactions with Returns: Calculate the total number of transactions that have a return.
 Date Formatting: Convert all date variables into valid date formats for consistent analysis.
 Transaction Data Time Range: Identify the time range of the transaction data in days, months, and years.
