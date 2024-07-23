@@ -7,7 +7,7 @@ This project involves analyzing a retail transaction database to extract insight
 # Objectives
 The following objectives were addressed in this project:
 
-# 1.Total Rows in Each Table:
+ ## 1.Total Rows in Each Table:
  Determine the total number of rows in each of the 3 tables in the database.
 # 2.Transactions with Returns:
  Calculate the total number of transactions that have a return.
